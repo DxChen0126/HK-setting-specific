@@ -1,0 +1,255 @@
+,HK.case.no.,Pseudo_Key,Occupation,Building.list,Workplace,assumed.event,reclassify
+1,945,UF941,Clinic staff (cleaning),"Block 2, Royal Jubilee, 88 San Shing Avenue, Sheung Shui",NA,clean,noso
+2,1436,ZO466,outdoor engineer,"Luen Yuet House, Kwai Luen Estate, Kwai Shing Circuit",NA,blue,
+3,1475,QN691,renovation worker,"Block A, Clague Garden Estate",NA,blue,
+4,1539,KU790,"Logistics (Kerry, CS)","Lok Shing House, Tsz Lok Estate, Tsz Wan Shan",NA,blue,
+5,1541,TL689,constructions (worker),"Lok Yan House, Tsz Lok Estate, Tsz Wan Shan",NA,blue,
+6,1548,FU712,Cleaning worker,"Wah Mei Lau, Garden Estate, Ngau Tau Kok",NA,blue,
+7,1595,EE537,constructions (worker),"Tat Yi House, Po Tat Estate, Sau Mau Ping",NA,blue,
+8,1599,IE587,Cleaning worker,"Ching Fai House, Tsz Ching Estate",NA,blue,
+9,1615,TS322,airconditioner technical,"Yuet Chuen House, Shui Chuen O Estate, Shatin",NA,blue,
+10,1631,DC841,Logistics,"Hung Cheong House, Hung Fuk Estate, Hung Shui Kiu",NA,blue,
+11,1651,GV644,air con mechanics,"Block 14, Tsui Chuk Garden, Chuk Yuen",NA,blue,
+12,1735,SK997,Cleaning worker,"Pak Suet House, Choi Hung Estate, Choi Hung",NA,blue,
+13,1818,JR115,Cleaning staff (LCSD),"葵涌石籬二邨石祥樓_x000D_
+Shek Cheung House, Shek Lei (II) Estate, Kwai Chung",NA,blue,
+14,1945,HV285,Building maintainance,"天水圍天頌苑頌波閣_x000D_
+Chung Po House, Tin Chung Court, Tin Shui Wai",NA,blue,
+15,2126,DJ154,Cleaning worker,"Ma Tin Tsuen, Yuen Long",NA,blue,
+16,2171,RW174,Constructions (worker),"Block 7, Glorious Garden, Tuen Mun",NA,blue,
+17,2375,GD827,Cleaning worker,"Fa Yuen Street, Mong Kok",NA,blue,
+18,2389,UF695,"Cleaning staff (中環華懋廣場2期G/F, 1/F)","Tung Tai House, Ching Tai Court, Tsing Yi",中華華懋廣場2期,blue,
+19,2417,MN800,"Constructions (worker, site at Kowloon Bay opposite to children's hospital)","Yan Lam House, Tsui Lam Estate, Tseung Kwan O",NA,blue,
+20,2460,XA146,"constructions (worker at site above Tai Wai MTR, 協成建築公司)","Oi Chung House, Tsz Oi Court, Tsz Wan Shan",NA,blue,
+21,2493,UE599,貨倉工人(廣新行),"Sau Tai House, Fu Tai Estate, Tuen Mun",NA,blue,
+22,2497,NQ194,Safety Officer (怡和機械工程有限公司),"Kam Chun House, Tung Chun Court, Shau Kei Wan",NA,blue,
+23,2523,XX625,Constructions (worker),"牛頭角彩盈邨盈順樓_x000D_
+Ying Shun House, Choi Ying Estate, Ngau Tau Kok",NA,blue,
+24,2526,RA333,Constructions (worker),"油塘油麗邨秀麗樓_x000D_
+Sau Lai House, Yau Lai Estate, Yau Tong",NA,blue,
+25,2736,ER257,Staff of 創耀白鐵工程,"Hong Kin House, Tsz Hong Estate, Tsz Wan Shan",NA,blue,
+26,2744,FG450,Driver (Truck),"254 Ki Lung Street, Sham Shui Po",NA,blue,
+27,2778,GB207,Renovation worker,"Toi Fung House, Fung Tak Estate, Diamond Hill",NA,blue,
+28,2808,IV269,Cleaning worker,"Toa Yuen House, Chuk Yuen North Estate, Wong Tai Sin",NA,blue,
+29,3042,BF143,Warehouse worker,"Kui Yat House, Yat Tung (2) Estate, Tung Chung",NA,blue,
+30,3158,MB484,air conditioning repair contractor (mechanics),"BLOCK A, PHASE 3, KWAN YICK BUILDING, SAI YING PUN","Jardine engineering, Admiralty 太古廣場, 海水泵房",blue,
+31,3269,OO783,"Lift and Escalator Contractor (technician/mechanics, 三菱公司)","NAM HANG TSUEN, YUEN LONG",三菱公司,blue,
+32,3299,MX239,"Constructions (worker, Tai Wai MTR 紮鐵工人)","SHEK FOOK HOUSE , SHEK LEI (II) ESTATE, KWAI CHUNG",NA,blue,
+33,3576,JA927,Transportation worker,"觀塘越聯工業大廈_x000D_
+Viet Luen Factory Building, Kwun Tong","夏暉物流, 小瀝源路8-10",blue,
+34,3595,RS905,Renovation worker,"元朗朗屏8號3座_x000D_
+Tower 3, The Spectra, Yuen Long",NA,blue,
+35,3625,CA474,Cleaning worker,"觀塘華發大樓_x000D_
+Wah Fat Building, Kwun Tong",保潔清潔有限公司(沙田圍新村皇御居),blue,
+36,3747,FA637,Mechanics (lift),"Tsz Jing House, Block 2, Po Shek Wu Estate, Sheung Shui",NA,blue,
+37,3800,BF129,Renovations worker,"shui kwok house, TIN SHUI ESTATE, TIN SHUI WAI",大埔嵐山/天晴邨,blue,
+38,3828,QP999,Workman (ICC Morgan Stanley Pantry),NA,NA,blue,
+39,3878,CH764,Workman (HK Botantial Garden),"Block B, MING WAH DAI HA, SHAU KEI WAN",Hong Kong Zoological and Botanical Gardens,blue,
+40,3904,XM297,"Constructions (worker) (Hong Lok Yuen 地盤, 大埔太和路), Driver (華豐公司) _x000D_
+","Yiu Yat House, TIN YIU ESTATE, TIN SHUI WAI","Highway contract out driver 華豐公司_x000D_
+Hong Lok Yuen 地盤 and worked 大埔太和路_x000D_
+",blue,
+41,3906,SB178,龍山隧道技術員 Serco Asia,"SHEK TONG TSUEN, YUEN LONG",龍山隧道技術員 Serco Asia,blue,
+42,3907,VZ131,Cleaning worker,"CHING YI HOUSE, TSZ CHING ESTATE, TSZ WAN SHAN",Cleansing worker 24/7-5/8 沙田香港體育學院,blue,
+43,3916,UA602,"Constructions (worker, 雜工青衣地盤)","lok hop house, TSZ LOK ESTATE, TSZ WAN SHAN",地盤雜工青衣地盤28/7-4/8,blue,
+44,4069,DU314,"Constructions (worker, freelance)","Block ?, Wei King Building, Hung Hom",NA,blue,
+45,4115,NS620,"Constructions (worker, 駿裕工程有限公司)","BLOCK A, HUNG YU MANSION, SHAM SHUI PO",壽臣山西15號地盤工作/駿裕工程有限工司,blue,
+46,4121,IY507,Cleaning worker,"MEI YING HOUSE, SHEK KIP MEI ESTATE,  SHEK KIP MEI",鴻裕大廈A座,blue,
+47,4185,ZT887,拉??工人 (Lift Operator?),"SHIU FUNG MANSION, TAI KOK TSUI","G/F, Wah Yuen Factory Building, Tai Kok Tsui",blue,
+48,4261,CP339,Logistics (self-employed),"Paradise Square, Mong Kok",NA,blue,
+49,4265,BJ449,Cleaning worker,"Shung Ching San Tsuen, Yuen Long",屏山排污廠,blue,
+50,4284,KQ139,Cleaning worker,"Fortune Court, YAU MA TEI","? Sheung Wan Commerical building, Pacific Place",blue,
+51,4366,EI596,"Constructions (worker, Wo Hing)","TAI YUEN VILLA, HA CHUK YUEN, YUEN LONG",NA,blue,
+52,4379,JB182,Maintenance Contractor (Self-employed),"Fu Shing Court, CHAI WAN",NA,blue,
+53,4403,JE252,Transportation worker,"CHUNG NAM MANSION, TO KWA WAN",NA,blue,
+54,4481,HT152,"Constructions (clerical staff, Elements 圓方地盤)","Phase 1, Tsui Yuen Mansion, Mong Kok",Elements Construction site (office),blue,
+55,4548,TN679,散工 part time,"TSZ TIN TSUEN, TUEN MUN",NA,blue,
+56,4629,NY373,Truck Driver (海港國際),"Block 3, Marina Garden, Tuen Mun",Truck driver (海港國際),blue,
+57,4678,GV734,Air conditioner technician (大角咀健豐公司- 櫸樹街),"SAU TAK HOUSE, SAU MAU PING SOUTH ESTATE, SAU MAU PING",大角咀健豐公司-櫸樹街,blue,
+58,4724,CF354,renovation worker(free lance),"po on building, MONG KOK",NA,blue,
+59,4801,QB879,workman,"Stanley Main Street, Stanley",NA,blue,
+60,4828,NO274,Construction worker,"WHITFIELD MANSION, NORTH POINT",Construction site near Disneyland,blue,
+61,4879,CA689,Cleaning worker,"Kai Fai House, Choi Wan Estate, Ngau Chi Wan",灣仔道109號金陵會,blue,
+62,5446,IE864,Renovation worker,"沙田新田圍邨盛圍樓_x000D_
+Shing Wai House, Sun Tin Wai Estate, Sha Tin",NA,blue,
+63,5521,OQ477,construction worker,"Fu Tung House, Tung Tau Estate, Kowloon City","裝修(地盤)跑馬地next to聖保祿天主教小學, LDW 18/11",blue,
+64,5749,FC434,Cleaning worker,"屯門良景邨良萃樓_x000D_
+Leung Shui House, Leung King Estate, TUEN MUN",屯門曾咀骨灰場工作恒益清潔,blue,
+65,5914,XF846,Cleaning worker,"將軍澳景林邨景櫚樓_x000D_
+King Lui House, King Lam Estate, Tseung Kwan O",日出康城民政事務處康城社區會堂,blue,
+66,6058,JI298,Warehouse worker,NA,倉務員新華集團,blue,
+67,6118,HL632,Cleaning worker,NA,天水圍貨櫃場,blue,
+68,6358,GH135,建築(保養維修),"Kui Tai House, On Tai Estate, Kwun Tong","建築(保養維修) KUDOS airport Midfield, LDW 30/11 total 4-5 collegues , take away food",blue,
+69,6506,ZI264,Construction worker,"沙田黃竹洋村_x000D_
+Wong Chuk Yeung Village, Sha Tin",NA,blue,
+70,6616,PK331,Construction site worker (part-time),"Lee Hing House, Lee On Estate, Ma On Shan","地盤散工, LDW end of Oct",blue,
+71,6965,UE583,雜工,"Cheung Hing Building, Sham Shui Po","深水埗基窿得爵有限公司, LDW 5/12",blue,
+72,6975,JP117,Engineering work,"_x000D__x000D_
+Hing Fook House, Wong Tai Sin",NA,blue,
+73,7310,UK224,Cleaning worker,"將軍澳富康花園8座_x000D_
+Block 8, Beverly Garden, Tseung Kwan O","CWB 忠糧大廈25樓全層, LDW 9/12.",blue,
+74,7341,SI621,Interoir renovation,"大角咀中和樓_x000D_
+Chung Wo Building, Tai Kok Tsui",NA,blue,
+75,7394,VZ716,消防工程,"天水圍天富苑榮富閣_x000D_
+Wing Fu House, Tin Fu Court, Tin Shui Wai",上海街438號同珍商業大廈10樓,blue,
+76,7442,KB872,Slaughter house office (part time)/cleaning worker,"葵涌安蔭邨澤蔭樓_x000D_
+Chak Yam House, On Yam Estate, Kwai Chung",Tsuen Wan,blue,
+77,7466,YB849,Foreman (LandsD),"香港仔仁勝大廈_x000D_
+Yen Shing Mansion, Aberdeen",路政署管工@青衣長暉路,blue,
+78,7493,FB774,Cleaning worker,"灣仔皇后大道東96-98號_x000D_
+96-98 Queen's Road East, Wan Chai","Cleansing worker worked in Lockhart road market, Wanchai, LDW 13/12 clean and collect rubbish of G/F, 1/F and 2/F, 7 sweep street at Paterson street, LDW 13/12",blue,
+79,7508,RI902,Tree cutting,"元朗譽88，2座_x000D_
+Tower 2, Residence 88, Yuen Long","康文署沙田office, 大棠渡假營training",blue,
+80,7526,HK459,工程代表,"元朗上攸田村_x000D_
+Sheung Yau Tin Tsuen, Yuen Long",NA,blue,
+81,7545,OJ692,Site foreman,"天水圍天恒邨恒運樓_x000D_
+Heng Wan House, Tin Heng Estate, Tin Shui Wai",Construction site at HK wetland park in Tin Shui Wai (香港濕地公園 ),blue,
+82,7603,JX690,Construction worker,"葵涌石籬二邨石廣樓_x000D_
+Shek Kwong House, Shek Lei (II) Estate, Kwai Chung",聖保祿中學,blue,
+83,7621,WP360,warehouse manager,"深水埗大埔道41-41A號_x000D_
+41-41A Tai Po Road , Sham Shui Po","粉嶺倉庫和豐工業大廈, LWD 8/12/2020",blue,
+84,7642,LE349,Construction worker,"大角咀通州街2-16號長豐大廈_x000D_
+Cheung Fung Mansion, 2-16 Tung Chau Street, Tai Kok Tsui",地盤泥水工海達邨海榮樓地盤,blue,
+85,7691,VY216,Cleaning worker,"牛池灣彩雲邨瓊宮樓_x000D_
+King Kung House, Choi Wan Estate, Ngau Chi Wan","建華有限公司凱旋二期5座_x000D_
+",blue,
+86,7754,HP540,Construction worker,"柴灣興華(一)邨興翠樓_x000D_
+Hing Tsui House, Hing Wah (I) Estate, Chai Wan",NA,blue,
+87,7758,IJ441,Delivery worker,"上水清河邨清朗樓_x000D_
+Ching Long House, Ching Ho Estate, Sheung Shui","Wanchai office, LDW 14/12",blue,
+88,7874,EA118,Technician,"青衣長安邨安濤樓_x000D_
+On Tao House, Cheung On Estate, Tsing Yi",立高清潔公司(技工) Wanchai government market station @ Lockhart road market,blue,
+89,7884,RI783,Cleanign worker,"屯門良景邨良偉樓_x000D_
+Leung Wai House, Leung King Estate, Tuen Mun",地盤 tin Shui Wai,blue,
+90,7905,UE502,warehouse worker,"牛池灣坪石邨黃石樓_x000D_
+Wong Shek House, Ping Shek Estate, Ngau Chi Wan",NA,blue,
+91,8015,PT970,Renovation worker,"Kwai Tai House, Kwai Fong Estate, Kwai Chung","拆石棉YMT clinic, LDW 18/12",blue,
+92,8058,AY303,Renovation worker,"Sun Wo House, Tai Wo Estate, Tai Po",錦輝苑 (裝修),blue,
+93,8131,GP845,Deliveryman,"待定_x000D_
+Pending",NA,blue,
+94,8139,WM927,Logistics officer,"慈雲山慈正邨正旭樓_x000D_
+Ching Yuk House, Tsz Ching Estate, Tsz Wan Shan","Logistics consultant, work at home",blue,
+95,8199,PD701,Construction worker,"葵涌石籬(二)邨石榮樓 _x000D_
+Shek Wing House, Shek Lei (II) Estate, Kwai Chung","Fanling 皇后山有利建築地盤, LDW 19/12",blue,
+96,8207,XJ480,Small scale engineering,"牛頭角嘉和園嘉仁大廈_x000D_
+Ka Yan Mansion, Jade Field Garden, Ngau Tau Kok","消防保養葵涌金運工業大廈2期24樓P室, LDW 17/12",blue,
+97,8283,YD875,Electrician,"將軍澳翠林邨安林樓_x000D_
+On Lam House, Tsui Lam Estate, Tseung Kwan O","Electrical technician (裝燈), 匯財工程, 大興體育館, LDW 19/12, 4 collegues",blue,
+98,8353,ZB757,Logistic,"待定_x000D_
+Pending",NA,blue,
+99,8396,EY238,Factory worker (non-food products),"天水圍天頌苑頌畫閣_x000D_
+Chung Wa House, Tin Chung Court, Tin Shui Wai",KT 鴻圖道81號5樓全層,blue,
+100,8415,YX838,Cleaner,"西營盤福祥閣_x000D_
+Fortune Court, Sai Ying Pun",北角木星街維峰浚匯兆恆清潔公司,blue,
+101,8655,CY801,Construction worker,"天水圍天耀邨耀澤樓_x000D_
+Yiu Chak House, 	Tin Yiu Estat, Tin Shui Wai",永利防水公司SPK 七愛街地盤,blue,
+102,8749,ZR768,Cleaner,"九龍城德朗邨德瑞樓_x000D_
+Tak Sui House, Tak Long Estate, Kowloon City","TKO 日出康城, LDW 26/12",blue,
+103,8765,CG397,Cleaner,"慈雲山慈正邨正旭樓_x000D_
+Ching Yuk House, Tsz Ching Estate, Tsz Wan Shan",Kowloon City market,blue,
+104,8817,RE307,Engineer - electrical,"石硤尾福田大廈_x000D_
+Fook Tin Building, Shek Kip Mei","CLP 莆崗村道175號斧山變電站G/F, LDW 27/12",blue,
+105,8846,AY521,Cleaner,"東涌逸東(二)邨傑逸樓_x000D_
+Kit Yat House, Yat Tung (II) Estate, Tung Chung",國泰貨運站寫字樓,blue,
+106,8953,SA578,Driver - truck,"牛池灣彩雲(一)邨紫霄樓_x000D_
+Chi Siu House, Choi Wan (I) Estate, Ngau Chi Wan",NA,blue,
+107,8954,AF857,Plumber,"牛池灣彩輝邨彩華樓_x000D_
+Choi Wah House, Choi Fai Estate, Ngau Chi Wan",Construction site next to Fanling Park,blue,
+108,9057,BI860,Driver - truck,"馬鞍山頌安邨頌智樓_x000D_
+Chung Chi House, Chung On Estate, Ma On Shan","華潤五豐國分銷有限公司, LDW 4/1  沙田小瀝源沙田工業中心A座1/F 1-4號鋪",blue,
+109,9225,GU668,Cleaner / Car driver,"牛池灣彩雲(二)邨豐澤樓_x000D_
+Fung Chak House, Choi Wan (II) Estate, Ngau Chi Wan","Contract out car driver and cleaning bridge and tunnel, Highways Department, LDW 8/1",blue,
+110,9242,AV255,Construction worker,"油麻地廣東道祥發大廈_x000D_
+Winner Building, Canton Road, Yau Ma Tei",避風塘青衣友聯船塢躉船 LDW 8/1,blue,
+111,9272,AC987,cleaner,"油麻地新填地街26號_x000D_
+26 Reclamation Street, Yau Ma Tei",Johnson compnay in Central Lai Kwai Fong,blue,
+112,9355,ZH606,renovation worker,"元朗橫洲福慶村_x000D_
+Fuk Hing Tsuen, Wang Chau, Yuen Long",NA,blue,
+113,9442,NI447,Construction worker,"荃灣聯仁街18號_x000D_
+18 Luen Yan Street, Tsuen Wan","荃灣華營地盤沙咀道, 雜工地盤工作, LDW 13/1. 8-12/1 荃灣地盤返工. 29/12-7/1 屯門小坑邨地盤返工._x000D_
+",blue,
+114,9470,XC812,Engineering / Technician,"粉嶺榮輝中心1座_x000D_
+Block 1, Wing Fai Centre, Fanling",DGS 石油氣公司愉景灣北廣場地下G13C鋪,blue,
+115,9490,AY961,Construction worker,"元朗公庵路DD119_x000D_
+DD119 Kung Um Road, Yuen Long",屯門醫院後面樓盤,blue,
+116,9592,ZK709,construction - others 工料測量員,"牛池灣嘉峰臺1座_x000D_
+Block 1, Kingsford Terrace, Ngau Chi Wan","俊和建築有限公司, 長沙灣_x000D_
+九龍深水埗青山道576-586號",blue,
+117,9598,YQ208,Logistics - Post Director,"葵涌(delete 雍雅軒)雍澄軒 (delete酒店)_x000D_
+Apex Horizon Suites (delete The Apex Horizon All Suite Hotel, The Apex), Kwai Chung","滙城集團大廈, FLOOR 22, ROOM/FLAT D",blue,
+118,9615,MW839,Construction worker,"上水彩園邨彩華樓_x000D_
+Choi Wah House, Choi Yuen Estate, Sheung Shui",TKO Gammon construction site.  ldw 17/1,blue,
+119,9617,OY987,Engineer - electrical,"屯門龍門居3座_x000D_
+Block 3, Lung Mun Oasis, Tuen Mun",宏寶電訊冷氣工程有限公司,blue,
+120,9618,AG966,Construction worker,"油麻地碧街27號_x000D_
+27 Pitt Street, Yau Ma Tei",Lam Tin  Shang Sung company,blue,
+121,9699,ZO480,Cleaner,"油麻地砵蘭街33C號_x000D_
+33C Portland Street, Yau Ma Tei","Johnson Cleaning Services Co. Ltd, LDW 17/1_x000D_
+SYP rubbish collection _x000D_
+",blue,
+122,9748,YR124,Cleaner,"油麻地吳松街金寶大廈_x000D_
+Kam Po Building, Woosung Street, Yau Ma Tei","Labco, LDW 19/1, street cleaning in front of HSBC hennessy road, LDW 19/1",blue,
+123,9755,SL738,Cleaner,"油麻地吳松街金寶大廈_x000D_
+Kam Po Building, Woosung Street, Yau Ma Tei","Cleaner, 立高服務有限公司, LDW 18/1, usually works at wanchai",blue,
+124,9764,QP908,Cleaner,"油麻地廣東道575號_x000D_
+575 Canton Road, Yau Ma Tei","Mongkok Rubbish collection, LDW 19/1",blue,
+125,9796,DL177,Renovation worker,"上水天平邨天美樓_x000D_
+Tin Mei House, Tin Ping Estate, Sheung Shui","TST 金龍中心平台, ldw 15/1",blue,
+126,9825,SG519,construction worker,"油麻地上海街191號_x000D_
+191 Shanghai Street, Yau Ma Tei","Mongkok St George’s mansion, Construction worker; LDW 14/1",blue,
+127,9921,GE667,Construction worker,"油麻地啟儀閣_x000D_
+Kai Yee Court, Yau Ma Tei","Construction site Kai Tak , LDW 9/1, Wood work",blue,
+128,9983,IG784,Construction worker,"Block 2, Jing Hui Garden",Near Element (construction site),blue,
+129,10060,NM803,construction worker,"油麻地金田樓_x000D_
+Kim Tin Building, Yau Ma Tei",not working for over one month,blue,
+130,10070,ET666,Construction worker,"葵涌葵福大廈_x000D_
+Kwai Fook Building, Kwai Chung",迪士尼擴建(俊和地盤),blue,
+131,10081,VT994,Driver,"土瓜灣九龍城道184號_x000D_
+184 Kowloon City Road, To Kwa Wan","Driver 耀發清潔公司, LDW 23/1, Jordan road 文昌街取車",blue,
+132,10156,TF579,Construction worker,"天水圍天恒邨恒健樓_x000D_
+Heng Kin House, Tin Heng Estate, Tin Shui Wai",安保Chek Lap Kok South construction site,blue,
+133,10206,AX883,cleaner,"長沙灣凱樂苑凱碧閣_x000D_
+Hoi Pik House, Hoi Lok Court, Cheung Sha Wan","Cleaning toilet B1 2/F toilet, Langham place, under ISS company LDW 24/1, meal with 5-6 colleagues",blue,
+134,10214,NW971,plumber,"旺角通菜街11 (9-15?)號_x000D_
+11 (9-15?) Tung Choi Street, Mong Kok",freelance plumber,blue,
+135,10300,RY115,Deliveryman,"葵涌葵盛西邨3座_x000D_
+Block 3, Kwai Shing West Estate, Kwai Chung","Delivery in Kwun tong district , receive apps and delivery, 22/1 LDW",blue,
+136,10320,TC920,Construction - other,"粉嶺祥華邨祥順樓_x000D_
+Cheung Shun House, Cheung Wah Estate, Fanling","Construction site woker, 平水測量啟德居屋地盤新福港公司, LDW 27/1, shared changing room with 6-7 persons; Station Square at Kai Tak - Phase 1",blue,
+137,10361,KI704,"Deliverymen, cleaner","深水埗鴨寮街173號_x000D_
+173 Apliu Street, Sham Shui Po","Delivery in Kwun Tong and NTK, ldw 27/1_x000D_
+九龍油尖旺廣東道1123號, 福安工廠大廈, Cleaner",blue,
+138,10446,HL458,Cleaner,"紅磡寶源大廈_x000D_
+Po Yuen Mansion, Hung Hom","Cleaning worker; Whampoa Site 2, Johnson company, LDW 30/1",blue,
+139,10550,IV336,Construction worker,"元朗宏豐大廈_x000D_
+Wang Fung Building, Yuen Long","Sheung shui 文錦渡缸瓦莆德運建築公司, Construction site worker, LDW 3/2",blue,
+140,10627,WE682,Cleaner,"東涌逸東邨平逸樓_x000D_
+Ping Yat House, Yat Tung Estate, Tung Chung",HKIA ISS 6/F female toilet,blue,
+141,10667,GP990,construction - supervisor,"屯門翠寧花園6座_x000D_
+Block 6, Tsui Ning Garden, Tuen Mun",Aecom company limited Kai Tak 沐泰街;  Kai Tak 停機坪5B,blue,
+142,10709,PO395,Renovation worker,"元朗崇正新村_x000D_
+Shung Ching San Tsuen, Yuen Long",工程寶登建築有限公司Shaukeiwan 海安商業中心16/F C室,blue,
+143,10738,GO595,Engineer - construction,"馬鞍山錦豐苑錦蘭閣_x000D_
+Kam Lan House, Kam Fung Court, Ma On Shan","環境工程師 at 何文田忠孝地盤 (next to 迦密中心俊和建築有限公司), LDW 9/2",blue,
+144,10798,GT350,construction worker,"沙田乙明邨明恩樓_x000D_
+Ming Yan Lau, Jat Min Chuen, Sha Tin","construction site worker, LDW 9/2, 九肚山地盤",blue,
+145,10944,NP367,Building service manager,"黃大仙樂富邨樂民樓_x000D_
+Lok Man House, Lok Fu Estate, Wong Tai Sin",櫸樹街19號華源工廠大廈9樓永高防防漏工程有限公司,blue,
+146,11091,GQ634,Construction site worker,"深水埗昌遠大廈_x000D_
+CHEONG YUEN BUILDING, SHAM SHUI PO",3rd runway construction site worker (LWD 6/3),blue,
+147,11255,TT733,Repairman,"牛池灣彩輝邨, 彩華樓_x000D_
+CHOI WAH HOUSE, CHOI FAI ESTATE, NGAU CHI WAN_x000D_
+","三菱升降機有限公司, 觀塘鴻圖道23號威登中心5/F; 維修員; LDW 12/3",blue,
+148,11272,YZ172,Construction - Other,"半山區嘉兆臺第１座_x000D_
+BLOCK 1, THE GRAND PANORAMA,  MID-LEVELS",豐利建築工程有限公司(KULY CONSTRUCTION & ENGINEERING CO LTD) in Yuen Long,blue,
+149,11368,KM154,Renovation worker,"銅鑼灣加路連大樓_x000D_
+CAROLINE HILL COURT, CAUSEWAY BAY","Renovation woodwork worker at 利豐裝修工程公司, 8-9 colleagues; LDW 19/3; 4-5/3 IFC phase 1 30/F; 6-7/3 中環置地廣場工作大廈 40/F; 11-15/3 worked 8/F and 11/F HSBC 總行; 16-19/3 中環士丹頓街地鋪 about 20 colleagues; lunch with a colleague",blue,
+150,11644,CP770,Construction worker,"牛頭角樂華北邨秉華樓_x000D_
+PING WAH HOUSE, LOK WAH NORTH ESTATE,_x000D_
+NGAU TAU KOK",地盤維修中美工程有限公司 (construction site located near 承啟道附近),blue,
+151,11708,XX841,Container terminal worker,"屯門新圍苑新碧閣_x000D_
+SAN BIK HOUSE, SAN WAI COURT, TUEN MUN","理貨員 (stevedore) 宏記港務操作有限公司, 葵涌第1,2,5號碼頭, LDW 21/4,",blue,
+152,11999,NN812,Construction site worker,"深水埗東廬大樓Ａ座_x000D_
+BLOCK A, TUNG LO COURT, SHAM SHUI PO",NA,blue,
+153,12258,CT104,Cargo loading worker,"沙田大圍金獅花園1期金輝閣_x000D_
+Golden Glory Court, Phase 1, Golden Lion Garden, Tai Wai, Sha Tin",NA,blue,

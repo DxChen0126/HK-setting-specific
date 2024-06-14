@@ -1,0 +1,95 @@
+,clust_ID,clust_freq,reclassify,company
+3,Prim1 Cluster_work_white_20_radio,7,,radio
+17,Prim1 Cluster_work_serv_white_141,6,,youfind (AI company) marketing
+91,Tert Cluster_tert_work_white_05,6,,finance (securities)
+1,Prim1 Cluster_work_white_02_CheungShaWan,5,,
+45,Prim2 Cluster_work_white_217,5,,law firm
+6,Prim1 Cluster_work_white_47_Music production,4,,
+7,Prim1 Cluster_work_white_Cable tv,4,,
+22,Prim1 Cluster_work_white_168,4,,radio station
+26,Prim1 Cluster_work_white_203,4,,clerk
+27,Prim1 Cluster_work_white_204,4,,jewlery trade company
+48,Prim3 Cluster_work_white_86,4,,arrow global limited
+51,Prim3 Cluster_work_white_216,4,,Designing company
+66,Sec1 Cluster_sec_work_serv_white_031,4,,customer service
+71,Sec1 Cluster_sec_work_white_047,4,,secretary and clerk of ship company?
+5,Prim1 Cluster_work_white_19,3,,engineer company
+14,Prim1 Cluster_work_serv_white_112,3,,property agency
+18,Prim1 Cluster_work_white_145,3,delete,American school (IT support; facility manager; clerk)
+20,Prim1 Cluster_work_white_152,3,,gateway tower
+32,Prim2 Cluster_work_white_28,3,,repair electrical appliance
+37,Prim2 Cluster_work_white_101,3,,finance
+39,Prim2 Cluster_work_white_121,3,,law firm
+42,Prim2 Cluster_work_white_181,3,BW,FEHD eliminating bug/rats
+46,Prim2 Cluster_work_white_220,3,,Designing company
+58,Sec1 Cluster_sec_work_white_007,3,BW,printing company
+60,Sec1 Cluster_sec_work_white_020,3,,clerk and director of guard service company?
+63,Sec1 Cluster_sec_work_white_025,3,BW,clerk; engineer; project manager of engineer company
+72,Sec1 Cluster_sec_work_white_052,3,BW,clerk; engineer; sales person of engineer company
+73,Sec1 Cluster_sec_work_white_068,3,,financial service
+75,Sec1 Cluster_sec_work_white_062,3,delete,teacher at kindergarten
+76,Sec1 Cluster_sec_work_white_075,3,delete,IT programmer at Kowloon Hospital
+77,Sec1 Cluster_sec_work_white_077,3,,magazine publisher
+81,Sec1 Cluster_sec_work_white_076,3,delete,Harbour school
+82,Sec1 Cluster_sec_work_white_083,3,,accounting
+85,Sec2 Cluster_sec_work_white_074,3,,Designing company
+86,Sec2 Cluster_sec_work_white_080,3,,medical insurance company
+89,Tert Cluster_tert_work_white_02,3,BW,clerk at terminal container shipping company
+90,Tert Cluster_tert_work_serv_white_04,3,,tech company
+93,Quad Cluster_quad_work_white_01,3,,media company
+2,Prim1 Cluster_work_white_12,2,,housing department technical staff
+4,Prim1 Cluster_work_white_15,2,,accountant; IT
+8,Prim1 Cluster_work_serv_white_70,2,,bank
+9,Prim1 Cluster_work_white_91,2,,secretary
+10,Prim1 Cluster_work_white_107,2,,business
+11,Prim1 Cluster_work_white_109,2,,merchandiser
+12,Prim1 Cluster_work_white_110,2,,accountant and property manager at MTR HQ
+13,Prim1 Cluster_work_white_108,2,,real estate back office
+15,Prim1 Cluster_work_white_111,2,,clerk and warehouse management
+16,Prim1 Cluster_work_white_122,2,,environment tech company
+19,Prim1 Cluster_work_white_148,2,,property management
+21,Prim1 Cluster_work_white_167,2,,system analyst/IT
+23,Prim1 Cluster_work_white_171,2,,science park
+24,Prim1 Cluster_work_white_196,2,,Designing company
+25,Prim1 Cluster_work_white_197,2,delete,property management; engineer
+28,Prim1 Cluster_work_white_208,2,,IT
+29,Prim1 Cluster_work_white_219,2,BW,clerk and surveyor at construction site
+30,Prim2 Cluster_work_white_21,2,,immigration office
+31,Prim2 Cluster_work_white_13,2,BW,aircon worker
+33,Prim2 Cluster_work_white_52,2,,embassy
+34,Prim2 Cluster_work_white_78,2,,kingston securities
+35,Prim2 Cluster_work_white_93,2,,CDF company HQ
+36,Prim2 Cluster_work_white_134,2,,accountant
+38,Prim2 Cluster_work_white_102,2,,logistic manager; clerk
+40,Prim2 Cluster_work_white_132,2,,university office
+41,Prim2 Cluster_work_white_159,2,delete,accountant and clerk of shipping company
+43,Prim2 Cluster_work_white_187,2,,tech company
+44,Prim2 Cluster_work_white_213,2,,university office
+47,Prim3 Cluster_work_white_48,2,,AXA
+49,Prim3 Cluster_work_white_85,2,delete,director of security guard company
+50,Prim3 Cluster_work_white_218,2,,tech company
+52,Sec1 Cluster_sec_work_white_001a,2,,
+53,Sec1 Cluster_sec_work_white_002,2,,
+54,Sec1 Cluster_sec_work_serv_white_001b,2,BW,part time architect and engineer
+55,Sec1 Cluster_sec_work_white_chat,2,,police
+56,Sec1 Cluster_sec_work_white_004,2,,trading company
+57,Sec1 Cluster_sec_work_white_008,2,,clerk; accountant
+59,Sec1 Cluster_sec_work_white_019,2,,publishing company
+61,Sec1 Cluster_sec_work_white_023,2,,"retail company, back office"
+62,Sec1 Cluster_sec_work_white_024,2,,finance
+64,Sec1 Cluster_sec_work_white_026,2,,
+65,Sec1 Cluster_sec_work_white_032,2,,fashion owner
+67,Sec1 Cluster_sec_work_white_043,2,,finance
+68,Sec1 Cluster_sec_work_white_033,2,,law firm
+69,Sec1 Cluster_sec_work_serv_white_039,2,delete,customer service; security guard
+70,Sec1 Cluster_sec_work_white_042,2,,clerk; office assistant
+74,Sec1 Cluster_sec_work_white_067,2,,office assistant and clerk of hardware company
+78,Sec1 Cluster_sec_work_white_079,2,,bitgame labs
+79,Sec1 Cluster_sec_work_white_078,2,,vivino hk (wine business)
+80,Sec1 Cluster_sec_work_white_081,2,,finance
+83,Sec2 Cluster_sec_work_white_006,2,BW,façade engineer
+84,Sec2 Cluster_sec_work_white_022,2,,mechandiser and clerk
+87,Sec2 Cluster_sec_work_white_082,2,,finance
+88,Tert Cluster_tert_work_white_01,2,,business
+92,Tert Cluster_tert_work_serv_white_11,2,,property agent
+94,Quad Cluster_quad_work_white_02,2,delete,Beacon hill school
